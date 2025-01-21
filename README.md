@@ -1,0 +1,2 @@
+# Type 'string' is not assignable to type 'number'
+This repository contains a TypeScript code example demonstrating a common type error: assigning a string to a number variable.  The `subtract` function incorrectly returns a string instead of a number, leading to a type error. The solution demonstrates how to fix this error by ensuring that the function returns a number. 
